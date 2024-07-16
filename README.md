@@ -45,5 +45,5 @@ https://github.com/AshleydVon/SQL-Employee-Tracker
 
 # Deployed Live Website
 https://ashleydvon.github.io/SQL-Employee-Tracker/
-ImageDescriptionShow ImageStarting ApplicationShow ImageEntering Prompted InformationShow Image
+
 
